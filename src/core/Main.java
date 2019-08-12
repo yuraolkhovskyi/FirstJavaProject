@@ -8,6 +8,7 @@ public class Main {
     private static TaxoPark park = new TaxoPark();
 
     public static void main(String[] args) {
+        System.out.println("some new changes");
         String command;
         System.out.println("Write 'help' for getting information");
         while(true){
